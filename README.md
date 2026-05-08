@@ -1,6 +1,6 @@
 # **DND CAMPAIGN: LETTUCE PLENGER CHARACTER ACCENSION QUEST: HAE RUU**
 
-This only trigger when a character reach a level stated down here, and it trigger after party decide to long rest.
+#### This only trigger when a character that in the title reach a level stated down here, and it trigger after party decide to long rest.
 ---
 
 Trigger after long rest - Hae Ruu Lv.7, 15, 20.
